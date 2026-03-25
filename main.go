@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Hello world")
 	day1.VaribaleDeclaration()
 	day1.PlayingWithConstants()
+	day1.PlayingWithPointers()
 }
